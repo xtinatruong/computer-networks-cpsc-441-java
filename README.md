@@ -12,6 +12,10 @@ The objective of this assignment is to practice network programming and learn ab
 tion layer protocols. Specifically, you will implement an HTTP client program to download a
 web object specified by its URL.
 
+You are not allowed to use package java.net.http, and URL, URI, URLConnection
+classes or their subclasses for this assignment. Ask the instructor if you are in doubt about
+any specific Java classes that you want to use in your program.
+
 ### Assignment 3
 The objective of this assignment is to practice server side network programming with TCP.
 Specifically, you will implement a multi-threaded web server from scratch to serve web objects

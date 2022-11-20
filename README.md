@@ -22,4 +22,10 @@ The objective of this assignment is to practice UDP socket programming and relia
 fer. Specifically, you will implement a UDP-based program for reliable file transfer based on the
 Stop-and-Wait protocol.
 
+### Assignment 5
+The objective of this assignment is to practice UDP socket programming and reliable data trans-
+fer. Specifically, you will implement a pipelined UDP-based program for reliable file transfer
+based on the Go-Back-N protocol, which is more efficient that the Stop and Wait protocol in
+Assignment 4
+
 

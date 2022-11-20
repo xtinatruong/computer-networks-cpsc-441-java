@@ -1,4 +1,4 @@
-# CPSC 441: Computer Networks with Java Assignment Description
+# CPSC 441: Computer Networks with Java
 ### Assignment 1
 This assignment aims to achieve several objectives at the same time. The first objective is to learn
 the basic structure of a client-server application. The second objective is to learn the general form
@@ -12,16 +12,10 @@ The objective of this assignment is to practice network programming and learn ab
 tion layer protocols. Specifically, you will implement an HTTP client program to download a
 web object specified by its URL.
 
-You are not allowed to use package java.net.http, and URL, URI, URLConnection
-classes or their subclasses for this assignment.
-
 ### Assignment 3
 The objective of this assignment is to practice server side network programming with TCP.
 Specifically, you will implement a multi-threaded web server from scratch to serve web objects
 to HTTP clients over the Internet.
-
-You are not allowed to use classes URL, URI, URLConnection or their subclasses for this
-assignment.
 
 ### Assignment 4
 The objective of this assignment is to practice UDP socket programming and reliable data trans-
